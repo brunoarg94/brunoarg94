@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brunoarg94
-- 👀 I’m interested in BI
-- 🌱 I’m currently learning Python, Pentaho and Tableau
+- 👀 Hey there! I'm a data analyst with over 5 years of professional experience, specializing in retail and finance. I'm into SQL, Python, cloud data engineering (Microsoft Stack - ADF, Databricks Synapse), and Power BI
 
 
 <!---
